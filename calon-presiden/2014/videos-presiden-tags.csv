@@ -1,0 +1,386 @@
+id_video,tag
+0001,orasi
+0001,pidato
+0001,prabowo
+0002,orasi
+0002,pidato
+0002,prabowo
+0003,interview
+0003,prabowo
+0004,orasi
+0004,pidato
+0004,prabowo
+0005,orasi
+0005,pidato
+0005,prabowo
+0006,interview
+0006,news segment
+0006,prabowo
+0006,jokowi
+0007,orasi
+0007,pidato
+0007,prabowo
+0007,news segment
+0008,talkshow
+0008,prabowo
+0009,talkshow
+0009,prabowo
+0010,talkshow
+0010,prabowo
+0011,talkshow
+0011,prabowo
+0012,orasi
+0012,prabowo
+0013,pidato
+0013,orasi
+0013,prabowo
+0014,talkshow
+0014,prabowo
+0015,pidato
+0015,orasi
+0015,prabowo
+0016,pidato
+0016,orasi
+0016,prabowo
+0017,profil
+0017,prabowo
+0018,profil
+0018,prabowo
+0019,iklan kampanye
+0019,prabowo
+0019,gerindra
+0020,iklan
+0020,kampanye
+0020,gerindra
+0021,visi
+0021,misi
+0021,prabowo
+0022,orasi
+0022,pidato
+0022,prabowo
+0023,orasi
+0023,pidato
+0023,prabowo
+0024,wawancara
+0024,eksklusif
+0024,prabowo
+0025,wawancara
+0025,eksklusif
+0025,prabowo
+0026,wawancara
+0026,eksklusif
+0026,prabowo
+0027,wawancara
+0027,eksklusif
+0027,prabowo
+0028,wawancara
+0028,eksklusif
+0028,prabowo
+0029,dialog
+0029,interaktif
+0029,prabowo
+0030,iklan
+0030,prabowo gerindra
+0031,iklan
+0031,prabowo
+0031,gerindra
+0032,debat
+0032,tim sukses
+0033,pidato
+0033,prabowo
+0034,deklarasi
+0034,koalisi
+0034,pilpres
+0035,wawancara
+0035,eksklusif
+0035,prabowo
+0036,wawancara
+0036,eksklusif
+0036,prabowo
+0037,iklan
+0037,prabowo
+0038,pidato
+0038,prabowo
+0039,pidato
+0039,prabowo
+0040,pidato
+0040,prabowo
+0041,pidato
+0041,prabowo
+0042,pidato
+0042,prabowo
+0043,pidato
+0043,prabowo
+0044,pidato
+0044,prabowo
+0045,pidato
+0045,prabowo
+0046,pidato
+0046,prabowo
+0047,wawancara
+0047,eksklusif
+0047,prabowo
+0048,wawancara
+0048,eksklusif
+0048,prabowo
+0049,pidato
+0049,prabowo
+0050,pidato
+0050,prabowo
+0051,pidato
+0051,prabowo
+0052,pidato
+0052,prabowo
+0053,pidato
+0053,prabowo
+0054,pidato
+0054,prabowo
+0055,pidato
+0055,prabowo
+0056,pidato
+0056,prabowo
+0057,pidato
+0057,prabowo
+0058,pidato
+0058,prabowo
+0059,wawancara
+0059,eksklusif
+0059,prabowo
+0060,pidato
+0060,prabowo
+0061,wawancara
+0061,eksklusif
+0061,prabowo
+0062,pidato
+0062,prabowo
+0063,wawancara
+0063,eksklusif
+0063,prabowo
+0064,pidato
+0064,prabowo
+0065,orasi
+0065,pidato
+0065,prabowo
+0066,pidato
+0066,prabowo
+0067,wawancara
+0067,eksklusif
+0067,prabowo
+0068,wawancara
+0068,eksklusif
+0068,prabowo
+0069,deklarasi
+0069,rajasa
+0069,hatta
+0070,wawancara
+0070,tatap
+0070,mata
+0070,hatta rajasa
+0071,satu indonesia
+0071,hatta rajasa
+0071,wawancara
+0071,profil
+0072,hatta rajasa
+0072,janji
+0072,pendidikan
+0072,gratis
+0073,hatta rajasa
+0073,pelanggaran
+0073,pemilu
+0073,kampanye
+0073,bawaslu
+0074,hatta rajasa
+0074,strategi
+0074,pan
+0075,hatta rajasa
+0075,kampus
+0075,uny
+0076,hatta rajasa
+0076,pidato
+0077,hatta rajasa
+0077,liputan
+0078,hatta rajasa
+0078,biografi
+0079,hatta rajasa
+0079,pernikahan
+0079,putri ke tiga
+0080,tiga
+0080,strategi
+0080,hatta
+0080,rajasa
+0080,berantas
+0080,korupsi
+0081,hatta rajasa
+0081,news
+0082,hatta rajasa
+0082,pidato
+0083,hatta rajasa
+0083,deklarasi
+0083,pidato
+0084,hatta rajasa
+0084,news
+0084,deklarasi
+0085,hatta rajasa
+0085,wawancara
+0086,hatta rajasa
+0086,pidato
+0087,hatta rajasa
+0087,orasi
+0088,hatta rajasa
+0088,kampanye
+0089,hatta rajasa
+0089,news
+0089,wawancara
+0090,hatta rajasa
+0090,pidato
+0090,keynote speak seminar
+0091,hatta rajasa
+0091,seminar
+0092,hatta rajasa
+0092,pidato
+0093,jokowi
+0093,news segment
+0093,al jazeera
+0094,orasi
+0094,pidato
+0094,jokowi
+0095,interview
+0095,jokowi
+0096,interview
+0096,jokowi
+0097,interview
+0097,jokowi
+0098,pidato
+0098,jokowi
+0099,pidato
+0099,jokowi
+0100,pidato
+0100,jokowi
+0101,pidato
+0101,jokowi
+0102,debat
+0102,tim sukse
+0103,visi misi
+0103,jokowi
+0104,visi misi
+0104,jokowi
+0105,visi misi
+0105,jokowi
+0106,news
+0106,jokowi
+0108,wawancara
+0108,jokowi
+0109,talkshow
+0109,jokowi
+0110,news
+0110,jokowi
+0111,news
+0111,jokowi
+0113,pidato
+0113,jokowi
+0114,news
+0114,wawancara
+0114,jokowi
+0115,wawancara
+0115,jokowi
+0117,pidato
+0117,jokowi
+0118,wawancara
+0118,eksklusif
+0118,jokowi
+0119,blusukan
+0119,jokowi
+0120,raker
+0120,jokowi
+0120,jk
+0121,wawancara
+0121,jokowi
+0122,liputan
+0122,jokowi-jk
+0123,wawancara
+0123,jusuf kalla
+0123,jokowi
+0123,capres
+0124,wawancara
+0124,jusuf kalla
+0124,calon
+0124,wakil
+0124,presiden
+0125,wawancara
+0125,jusuf kalla
+0126,diplomasi
+0126,damai
+0126,jusuf kalla
+0127,jusuf kalla
+0127,kampanye
+0127,aceh
+0128,jusuf kalla
+0128,live
+0128,dialog
+0128,setelah
+0128,deklarasi
+0128,jokowi
+0129,jusuf kalla
+0129,ruhut
+0129,debat
+0130,jusuf kalla
+0130,bersaksi
+0130,century
+0131,tanggapan
+0131,jk
+0131,video
+0131,heboh
+0131,jokowi
+0131,indonesia
+0131,hancur
+0132,tanggapan
+0132,jk
+0132,video
+0132,heboh
+0132,komentar
+0132,2 tahun
+0133,jusuf kalla
+0133,ibu
+0133,buku
+0134,jusuf kalla
+0134,kampanye
+0134,perdana
+0134,aceh
+0135,jusuf kalla
+0135,pidato
+0135,kampanye perdana
+0136,jusuf kalla
+0136,news
+0136,kampanye
+0137,jusuf kalla
+0137,wawancara
+0137,eksklusif
+0138,jusuf kalla
+0138,news
+0138,wawancara
+0139,jusuf kalla
+0139,news
+0140,jusuf kalla
+0140,pidato
+0141,jusuf kalla
+0141,wawancara
+0142,jusuf kalla
+0142,wawancara
+0143,jusuf kalla
+0143,wawancara
+0144,jusuf kalla
+0144,video
+0145,jusuf kalla
+0145,pidato
+0145,kampanye
+0146,jusuf kalla
+0146,news
+0146,wawancara
+0147,jusuf kalla
+0147,news
+0148,jusuf kalla
+0148,news
+0148,dialog
+0149,debat
+0149,capres
+0149,cawapres

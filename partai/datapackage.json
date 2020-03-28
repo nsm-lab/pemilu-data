@@ -1,0 +1,59 @@
+{
+  "name": "partai",
+  "title": "Partai Pemilu 2014",
+  "last_updated": "2013-11-04",
+  "licenses": [
+    {
+      "url": "", 
+      "name": ""
+    }
+  ], 
+  "sources": [{
+    "name": "Komisi Pemilihan Umum",
+    "web": "http://kpu.go.id/"
+  }],
+  "keywords": ["Indonesia", "Pemilu", "Partai"],
+  "resources": [
+    {
+      "name": "partai",
+      "path": "partai.csv",
+      "description": "Partai Pemilu 2014",
+      "schema": {
+        "fields": [
+          {
+            "id": "id",
+            "type": "string"
+          },
+          {
+            "id": "nama",
+            "type": "string"
+          },
+          {
+            "id": "nama_lengkap",
+            "type": "string"
+          },
+          {
+            "id": "url_situs",
+            "type": "string"
+          },
+          {
+            "id": "url_facebook",
+            "type": "string"
+          },
+          {
+            "id": "url_twitter",
+            "type": "string"
+          },
+          {
+            "id": "url_logo_small",
+            "type": "string"
+          },
+          {
+            "id": "url_logo_medium",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
